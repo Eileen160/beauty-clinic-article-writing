@@ -1,9 +1,9 @@
 ---
-name: eileen-aesthetic-article
+name: beauty-clinic-article-writing
 description: Write, review, and optimize Traditional Chinese aesthetic-medicine patient education and SEO articles for Taiwan medical institutions, with E-E-A-T evidence standards and conservative medical-advertising compliance.
 ---
 
-# Eileen Aesthetic Article
+# Beauty Clinic Article Writing
 
 Create Traditional Chinese patient education, SEO briefs, WordPress-ready articles, and content reviews about aesthetic medicine in Taiwan. Use for topics such as injectables, energy-based devices, dermatology-related aesthetic treatments, aesthetic surgery, hair restoration, body contouring, post-treatment care, and treatment comparisons.
 
