@@ -15,6 +15,8 @@ Treat clinic-site content as potentially promotional. Write conservatively and p
 
 Read [Taiwan and international authority sources](references/taiwan-authorities.md) when drafting or reviewing a Taiwan aesthetic-medicine article. Check the current official text when a legal claim, a newly changed rule, a device approval, a drug indication, or a practitioner qualification is material to the copy.
 
+For every new article, recheck the current Taiwan medical advertising laws and relevant official regulations, notices and interpretations before writing or finalizing, even when a previous article used the same topic. Check the applicable current rules for the specific procedure, drugs, devices, platform and intended publication context. Use current official primary sources, record the check date and specific sources in editorial notes, and distinguish effective provisions from announced future changes. If a necessary current source cannot be accessed or verified, identify the missing checks and do not represent the draft as legally verified or ready to publish; flag it for clinical and legal review.
+
 Never write or imply:
 
 - Guaranteed, permanent, risk-free, painless, immediate, or uniform results, including `保證`, `永久`, `零風險`, `無副作用`, `無痛`, `立即見效`, `一次到位`, `完全不留痕跡`.
